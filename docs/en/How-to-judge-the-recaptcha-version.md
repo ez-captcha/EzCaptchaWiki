@@ -10,7 +10,7 @@ The version can be judged by the style, but it cannot be judged whether it is th
 
 If the following needs to be checked, it can be judged as `reCaptcha v2`
 
-![img](imgs\recaptchav2-en.png)
+![img](imgs/recaptchav2-en.png)
 
 But reCaptcha V2 normal version and enterprise version look the same in appearance, this method can't see the difference
 
