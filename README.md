@@ -4,6 +4,26 @@ Welcome to the project wiki. You can view the technical articles related to our 
 
 欢迎使用 EzCaptcha Wiki。您可以再此查看我们产品相关的技术文章 :   
 
+
+
+#### Contact & Links
+
+Website: https://www.ez-captcha.com/
+
+Telegram Group: https://t.me/+NrVmPhlb9ZFkZGY5
+
+Discord: https://discord.gg/nDgSBurAVh
+
+
+
+#### Service Overview / 服务简介
+
+[EzCaptcha: Leading AI-based CAPTCHA Solution](docs/en/EzCaptcha-leading-ai-based-captcha-solution.md)  
+
+[EzCaptcha: 领先的AI验证码解决方案](docs/zh/EzCaptcha-领先的AI验证码解决方案.md)
+
+
+
 ## 目录 / Table of Contents
 
 ### English   
