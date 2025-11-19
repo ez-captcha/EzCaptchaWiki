@@ -1,8 +1,28 @@
-# EzCaptchaWiki
+# Cheap and Fast CAPTCHA Solution Provider—EzCaptcha
 
-Welcome to the project wiki. You can view the technical articles related to our products here
+EzCaptcha is an AI and machine learning-based CAPTCHA solving service, specifically designed to automatically bypass various CAPTCHA challenges. 
 
-欢迎使用 EzCaptcha Wiki。您可以再此查看我们产品相关的技术文章 :   
+Leveraging advanced algorithms and machine learning technologies, it can instantly recognize and circumvent multiple types of CAPTCHAs, providing users with an efficient and seamless verification experience.
+
+***Official Website: https://www.ez-captcha.com/***  
+
+
+
+- **Response times as fast as 2 seconds**  
+- **Handles high volumes of concurrent requests while maintaining top-tier availability**  
+- **Up to 20% developer rebate**  
+
+ 
+
+EZCaptcha offers **strong compatibility** and supports various CAPTCHA types:
+
+![image-20251119155135166](image-services.png) 
+
+ 
+
+**High-Accuracy Recognition**
+
+EzCaptcha utilizes machine learning algorithms to ensure a high success rate in solving CAPTCHAs. Through continuous optimization, its recognition accuracy can reach up to **99%**.
 
 
 
@@ -16,22 +36,14 @@ Discord: https://discord.gg/nDgSBurAVh
 
 
 
-#### Service Overview / 服务简介
+#### Service Overview
 
 [EzCaptcha: Leading AI-based CAPTCHA Solution](docs/en/EzCaptcha-leading-ai-based-captcha-solution.md)  
 
-[EzCaptcha: 领先的AI验证码解决方案](docs/zh/EzCaptcha-领先的AI验证码解决方案.md)
 
 
-
-## 目录 / Table of Contents
-
-### English   
+## Table of Contents
 
 - [How to judge the reCAPTCHA version](docs/en/How-to-judge-the-recaptcha-version.md)   
 - [What is the sa Parameter in reCAPTCHA](docs/en/What-is-the-sa-parameter-in-reCAPTCHA.md)   
 
-### 中文   
-
-- [如何判断reCaptcha版本](docs/zh/如何判断reCaptcha版本.md)   
-- [reCAPTCHA中sa参数的作用](docs/zh/reCAPTCHA中sa参数的作用.md)   
