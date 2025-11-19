@@ -1,5 +1,7 @@
 # Cheap and Fast CAPTCHA Solution Provider—EzCaptcha
 
+English|[中文版](README_CN.md)
+
 EzCaptcha is an AI and machine learning-based CAPTCHA solving service, specifically designed to automatically bypass various CAPTCHA challenges. 
 
 Leveraging advanced algorithms and machine learning technologies, it can instantly recognize and circumvent multiple types of CAPTCHAs, providing users with an efficient and seamless verification experience.
