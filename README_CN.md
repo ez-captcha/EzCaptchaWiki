@@ -18,7 +18,7 @@ EZCaptcha 是一款基于人工智能和机器学习技术的验证码解决服�
 
 EZCaptcha 具有**强大的兼容性**，可以适应各种验证码类型：
 
-![image-20251119155135166](image-services.png)
+![image-services](image-services.png)
 
 **高精度识别**
 
@@ -46,3 +46,4 @@ Discord: https://discord.gg/nDgSBurAVh
 
 - [如何判断reCaptcha版本](docs/zh/如何判断reCaptcha版本.md)   
 - [reCAPTCHA中sa参数的作用](docs/zh/reCAPTCHA中sa参数的作用.md)   
+- [如何获得reCAPTCHA v3 高分](docs/zh/如何获得reCAPTCHAv3高分.md)

@@ -18,7 +18,7 @@ Leveraging advanced algorithms and machine learning technologies, it can instant
 
 EZCaptcha offers **strong compatibility** and supports various CAPTCHA types:
 
-![image-20251119155135166](image-services.png) 
+![image](image-services.png) 
 
  
 
@@ -48,4 +48,5 @@ Discord: https://discord.gg/nDgSBurAVh
 
 - [How to judge the reCAPTCHA version](docs/en/How-to-judge-the-recaptcha-version.md)   
 - [What is the sa Parameter in reCAPTCHA](docs/en/What-is-the-sa-parameter-in-reCAPTCHA.md)   
+- [How to get reCaptcha v3 High Scores](docs/en/How-to-get-reCAPTCHA-high-score.md)
 
